@@ -13,9 +13,3 @@ steps:
     dotnet restore
     dotnet build --configuration Release
   displayName: 'Build C# Console Application'
-
-- task: PublishBuildArtifacts@1
-  inputs:
-    PathtoPublish: '$(System.DefaultWorkingDirectory)/bin/Release'
-    ArtifactName: 'drop'
-    publishLocation: 'Container'
