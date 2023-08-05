@@ -1,0 +1,15 @@
+E:\Krishna\helloworld12\bin\Debug\net7.0\helloworld12.exe
+E:\Krishna\helloworld12\bin\Debug\net7.0\helloworld12.deps.json
+E:\Krishna\helloworld12\bin\Debug\net7.0\helloworld12.runtimeconfig.json
+E:\Krishna\helloworld12\bin\Debug\net7.0\helloworld12.dll
+E:\Krishna\helloworld12\bin\Debug\net7.0\helloworld12.pdb
+E:\Krishna\helloworld12\obj\Debug\net7.0\helloworld12.csproj.AssemblyReference.cache
+E:\Krishna\helloworld12\obj\Debug\net7.0\helloworld12.GeneratedMSBuildEditorConfig.editorconfig
+E:\Krishna\helloworld12\obj\Debug\net7.0\helloworld12.AssemblyInfoInputs.cache
+E:\Krishna\helloworld12\obj\Debug\net7.0\helloworld12.AssemblyInfo.cs
+E:\Krishna\helloworld12\obj\Debug\net7.0\helloworld12.csproj.CoreCompileInputs.cache
+E:\Krishna\helloworld12\obj\Debug\net7.0\helloworld12.dll
+E:\Krishna\helloworld12\obj\Debug\net7.0\refint\helloworld12.dll
+E:\Krishna\helloworld12\obj\Debug\net7.0\helloworld12.pdb
+E:\Krishna\helloworld12\obj\Debug\net7.0\helloworld12.genruntimeconfig.cache
+E:\Krishna\helloworld12\obj\Debug\net7.0\ref\helloworld12.dll
