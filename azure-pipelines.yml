@@ -1,0 +1,21 @@
+# azure-pipeline.yml
+
+trigger:
+  branches:
+    include:
+      - main  # Replace with the branch you want to trigger the pipeline for
+
+pool:
+  vmImage: 'windows-latest'  # Use 'windows-latest' for Windows-based build
+
+steps:
+- script: |
+    dotnet restore
+    dotnet build --configuration Release
+  displayName: 'Build C# Console Application'
+
+- task: PublishBuildArtifacts@1
+  inputs:
+    PathtoPublish: '$(System.DefaultWorkingDirectory)/bin/Release'
+    ArtifactName: 'drop'
+    publishLocation: 'Container'
